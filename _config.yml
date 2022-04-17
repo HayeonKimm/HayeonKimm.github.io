@@ -33,12 +33,12 @@ color_6: 2fa499
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_4.jpg
-#   title: 
-  subtitle: >- 
-    hi<br>
-    im<br>
-    hayeon<br>
-    and U?
+  title: <br>HayeonKIM</br>
+#   subtitle: >- 
+#     hi<br>
+#     im<br>
+#     hayeon<br>
+#     and U?
   position : absolute
   transform : translate( -50%, -50%)
   left: 50px
@@ -61,7 +61,7 @@ slider_0: # 형식에 맞추어 항목 추가
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg_3_.jpeg
-  title: Hi. <br>My Name is HayeonKIM</br>
+  title: Hi. <br>HayeonKIM</br>
   subtitle: 
   position : absolute
   transform : translate( -50%, -50%)
