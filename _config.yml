@@ -112,18 +112,7 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 35
   mark: 35 # 이게 바를 조정한다.
   content: 파이썬 기초, 데이터 분석과 시각화를 공부하고 파이썬 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 파이썬으로 공부하였습니다.
-- name: 머신러닝
-  color: color-3
-  animation: fadeInRight
-  percent: 20
-  mark: 25
-  content: 
-- name: 딥러닝
-  color: color-2
-  animation: fadeInLeft
-  percent: 15
-  mark: 20
-  content: 
+
 - name: Github
   color: color-4
   animation: fadeInRight
