@@ -211,7 +211,7 @@ exp_services: # 형식에 맞추어 항목 추가
   content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
 exp_counters:
 - name: 개발 공부시작 (DAY)
-  count: 370
+  count: 470
   speed: 10000
 - name: project (NUMBER)
   count: 5.00
