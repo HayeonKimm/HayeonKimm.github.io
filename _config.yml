@@ -126,22 +126,22 @@ project_my: # 형식에 맞추어 항목 추가
     animation: fadeInRight
     name: 항해99 - TeamNote
     description: 스파르타코딩클럽에서 주최하는 부트캠프 항해99에서 마지막으로 진행된 실전 프로젝트. 약 6주간 진행되었다.
-    detail_url:
-    readmore_url: https://github.com/The-HangHae99-final/the-Final-TeamNote.git
+    detail_url: https://github.com/The-HangHae99-final/the-Final-TeamNote.git
+    readmore_url:
 
   - background_url: pdf/wanted.jpeg
     animation: fadeInRight
     name: 항해99 - 원티드
     description: 스파르타코딩클럽에서 주최하는 부트캠프 항해99에서 진행된 웹서비스 클론 프로젝트. 채용사이트 원티드를 타겟으로 두고 작업하였다. 약 1주간 진행되었다.
-    detail_url:
-    readmore_url: https://github.com/HayeonKimm/backend-ClonePro
+    detail_url: https://github.com/HayeonKimm/backend-ClonePro
+    readmore_url:
 
   - background_url: pdf/mountain.png
     animation: fadeInRight
     name: 항해99 - Mountain Go
     description: 스파르타코딩클럽에서 주최하는 부트캠프 항해99에서 진행된 첫 풀스택 미니 프로젝트.
-    detail_url:
-    readmore_url: https://github.com/HayeonKimm/Mountain-Go.git
+    detail_url: https://github.com/HayeonKimm/Mountain-Go.git
+    readmore_url:
 
 project_team_name: 데이터분석 프로젝트
 project_team: # 형식에 맞추어 항목 추가
