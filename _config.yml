@@ -164,7 +164,7 @@ project_team: # 형식에 맞추어 항목 추가
   - background_url: images/bus.png
     animation: fadeInRight
     name: 머신러닝을 활용한 버스도착시간 예측 모델
-    description:
+    description: 2020 홍익대학교 도시공학과 졸업논문을 목적으로 시작된 프로젝트이다. 당시 코로나 19 확산세가 처음 시작된 이후 약 1달이 지난 상황이였고, 사태의 심각성을 인지하고 앞으로의 코로나 확산세를 예측하는 것을 목표로 두었다.
     detail_url: pdf/bus.pdf
     readmore_url: https://github.com/HayeonKimm/bus-time-prediction
 
